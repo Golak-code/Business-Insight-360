@@ -5,6 +5,8 @@ Power BI Project
 
 AtliQ Hardware has experienced rapid growth in recent years and has decided to implement data analytics using Power BI for the first time. This initiative aims to help the company gain a competitive edge in the market and make data-driven decisions. The project is expected to address stakeholders' questions across various domains, including finance, sales, marketing, and supply chain.
 
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDQwNTEyYmEtY2M2Zi00NWFhLTg2YzctOWYyYjMxZGUxYzZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 **Technologies used**
 
 Power BI: For interactive data visualization and reporting.
